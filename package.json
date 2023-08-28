@@ -1,0 +1,23 @@
+{
+  "name": "stategist-cli",
+  "version": "0.0.1",
+  "description": "Web dev stategist cli",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
