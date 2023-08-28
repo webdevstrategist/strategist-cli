@@ -1,5 +1,5 @@
 {
-  "name": "stategist-cli",
+  "name": "strategist-cli",
   "version": "0.0.1",
   "description": "Web dev stategist cli",
   "main": "index.js",
